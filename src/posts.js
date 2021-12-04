@@ -10,6 +10,8 @@ export const PostList = props => (
             <TextField source='title' />
             <EditButton />
             {/* <TextField source='body' /> */}
+            
         </Datagrid>
     </List>
 );
+// 2
